@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zpo_lista11</string>
+    <string name="send">CALCULATE VALUE FOR X</string>
+    <string name="send2">CALCULATE DERIVATIVE</string>
+    <string name="hint">Enter values</string>
+    <string name="appName">QUADRATIC EQUATION</string>
+    <string name="hint2">Enter value</string>
+    <string name="textRequest">Enter x value</string>
+
+
+
+
+</resources>
